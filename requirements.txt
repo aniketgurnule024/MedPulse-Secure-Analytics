@@ -1,7 +1,7 @@
-your-repo-name/
-│
-├── README.md            # Project overview, architecture, and instructions
-├── Dockerfile           # Containerization configuration for IBM Z / LinuxONE
-├── requirements.txt     # Python dependencies
-├── model.py             # Machine learning / data simulation engine
-└── app.py               # Streamlit interactive dashboard UI
+pandas
+numpy
+scikit-learn
+streamlit
+fastapi
+uvicorn
+requests
